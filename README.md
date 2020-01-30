@@ -6,7 +6,7 @@
 	- Slide to left/right the playlist by DRAGGING / using the SCROLL WHEEL / pressing LEFT / RIGHT arrow
 	- Play / pause using ENTER and SPACE key
 	- Repeat on/off selected song
-	- Seeking song progress
+	- Seek song progress
 
 ![alt text](https://raw.githubusercontent.com/SIonut0122/musicplayer/gh-pages/static/media/gitHub_img.png)
 
