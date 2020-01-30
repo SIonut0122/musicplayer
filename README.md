@@ -8,7 +8,7 @@
 	- Repeat on/off selected song
 	- Seeking song progress
 
-![alt text](https://raw.githubusercontent.com/SIonut0122/ecommercetv/gh-pages/static/media/ecommtv1.png)
+![alt text](https://raw.githubusercontent.com/SIonut0122/musicplayer/gh-pages/static/media/gitHub_img.png)
 
 ## Open app: [here](https://sionut0122.github.io/ecommercetv/)
 
