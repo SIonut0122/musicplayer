@@ -10,7 +10,7 @@
 
 ![alt text](https://raw.githubusercontent.com/SIonut0122/musicplayer/gh-pages/static/media/gitHub_img.png)
 
-## Open app: [here](https://sionut0122.github.io/ecommercetv/)
+## Open app: [here](https://sionut0122.github.io/musicplayer/)
 
 ## Built with:
 
