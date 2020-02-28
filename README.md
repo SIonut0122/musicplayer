@@ -16,6 +16,7 @@
 
 - HTML 
 - SCSS
+- React.js
 - Javascript
 - Materialize framework
 
