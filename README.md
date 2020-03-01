@@ -1,5 +1,7 @@
 ## Music Player
 
+Source code here: https://github.com/SIonut0122/musicplayer/tree/gh-pages/musicPlayer
+
 ## Description
   This app allows to play songs from a playlist. You can:
 
